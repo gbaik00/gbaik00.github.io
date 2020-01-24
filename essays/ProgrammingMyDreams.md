@@ -9,7 +9,7 @@ labels:
   - Video Game Development
 ---
 
-<img class="ui tiny left circular floated image" src="../images/ffivcomparison.jpg">
+<img class="ui tiny left circular floated image" src="../images/gaming.jpg">
 
 ## My Experience with Software Engineering, and Why I am Interested in it.
 Software engineering is something I don't have much experience with now, and was something I didn't even remotely understand since two semesters ago. You might ask why I became so intrigued with creating programs and algorithms after my first semester doing business-related classes, and it is a fairly simple reason. I enjoy video games. The reason why I hadn't started earlier was mostly because I was afraid of the math and science that came with being a Computer Science major, however after trying out my second choice in terms of major, that was Business, I figured I would give it a shot. So far I do not regret my decision, nor do I look to anytime soon.
