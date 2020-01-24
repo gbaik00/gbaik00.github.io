@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Intelleyou (3).jpg
+image: images/Intelleyou (4).jpg
 title: Tutoring
 permalink: projects/tutoring
 # All dates must be YYYY-MM-DD format!
