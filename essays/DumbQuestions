@@ -23,7 +23,7 @@ explaining, and more room for understanding by the person asking the question. A
 but asking why 1 + 1 equals to 2, and not another number like 3, or "window" goes into topics like the origin of the number 1, how we 
 assigned the value of 1 to the symbol, and so on. There is more to be learned by playing the "why" game that we loved to play as kids.
 
-<img class="ui medium right floated rounded image" src="../images/shrugoldman.jpg">
+<img class="ui medium right floated rounded image" src="../images/branchprediction.png">
 
 ## An Example of a Smart Question
 An example of a smart question that I found on StackOverflow asked why it is that processing a sorted array is faster than an unsorted array.
@@ -33,6 +33,8 @@ the code still goes through the same set of data, and that the number of checks 
 the computer must still run through the rest of the data, so what causes the 6 times discrepancy in the runtimes? 
 The answer to this went into a seperate topic that is "branch prediction", and how applications have a built in "guessing" method 
 that uses past data to guess what the next set of data will return. 
+
+<img class="ui medium right floated rounded image" src="../images/shrugoldman.jpg">
 
 ## Why Is This a Smart Question?
 You'd think that computers/applications wouldn't try to "guess" anything, but by asking "why", we learned so much more than if the 
