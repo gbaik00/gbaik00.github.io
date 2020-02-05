@@ -50,4 +50,5 @@ not only for yourself but for the people answering your question as well. What I
 however how you ask your question makes all the difference. You don't want to just get the answer, but also learn to understand why it is
 you had the question in the first place to make sure you don't have to rely on people for that same question. 
 
+
 Link to question: https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array
