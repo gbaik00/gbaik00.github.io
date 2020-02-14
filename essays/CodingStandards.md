@@ -21,7 +21,7 @@ but at the same time it has many features that I certainly appreciate after comi
 is probably due to the fact that I am just not familiar to the IDE, and that there are so many new tools for me to use that I don't know
 how to use. 
 
-<img class="ui medium right floated rounded image" src="../images/yellow hell.png">
+<img class="ui medium right floated rounded image" src="../images/yellow hell.PNG">
 
 ## The Importance of Coding Standards
   Had you asked me my opinion on coding standards prior to ICS 211, or even the final project of ICS 111, I would have told you the 
