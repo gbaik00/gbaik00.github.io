@@ -9,7 +9,6 @@ labels:
   - ESLint
   - Coding Standards
 ---
-
 <img class="ui small right floated rounded image" src="../images/intellij logo.png">
 
 ## First Impressions
