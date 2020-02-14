@@ -10,8 +10,8 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui medium right floated rounded image" src="../images/intellij logo.png">
-<img class="ui medium left floated rounded image" src="../images/eclipse logo.medium">
+<img class="ui small right floated rounded image" src="../images/intellij logo.png">
+<img class="ui small right floated rounded image" src="../images/eclipse logo.medium">
 
 ## First Impressions
   Some might find this surprising especially from a newbie programmer such as myself, but I personally don't have much issues with ESLint.
