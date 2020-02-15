@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: CheckStyle 2: Electric Boogaloo
+title: "CheckStyle 2: Electric Boogaloo"
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-13
 labels:
