@@ -9,6 +9,7 @@ labels:
 ---
 
 1. Overview
+
   College is widely viewed in the United States to be very expensive. With costs such as tuition, room & board, books, and so on, 
   college often costs tens of thousands of dollars, causing many to have to dip into loans and collect debt. While a simple programmer
   going to such a college I can't solve all of these problems, what we all can agree on is that any amount of money that can be saved 
@@ -19,6 +20,7 @@ labels:
   a big list that anyone can look at and determine for themselves if it could be worth it. 
 
 2. Mockup page ideas
+
   Users will be the students who will be using the app, and their purpose would be to input what food items they find. Although our
   mission is to help students find cheap meals, the meals themselves do not have to qualify. This app will also help students discover
   the types of restaurants that exist on campus as well, without having to walk around every nook and cranny in the campus. For example,
@@ -31,13 +33,21 @@ labels:
   too much worry as to breaking their wallet.
   
 -Landing page
+
 -Home page
+
 -Create account page
+
 -Settings page
+
 -Admin home page
+
 -Add food item page
+
 -Full item pricing page
+
 -Cheapest foods page
+
 
 3. Use case ideas
 
