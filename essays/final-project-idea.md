@@ -10,7 +10,7 @@ labels:
 Author: Gunwook Baik
 
 
-**1. Overview**
+# **Overview**
 
   College is widely viewed in the United States to be very expensive. With costs such as tuition, room & board, books, and so on, 
   college often costs tens of thousands of dollars, causing many to have to dip into loans and collect debt. While a simple programmer
@@ -21,7 +21,7 @@ Author: Gunwook Baik
   will collect menu items from various restaurants across campus with the help of students who use the app, and will compile them into 
   a big list that anyone can look at and determine for themselves if it could be worth it. 
 
-**2. Mockup page ideas**
+# **Mockup page ideas**
 
   Users will be the students who will be using the app, and their purpose would be to input what food items they find. Although our
   mission is to help students find cheap meals, the meals themselves do not have to qualify. This app will also help students discover
@@ -44,14 +44,14 @@ Author: Gunwook Baik
 - Cheapest foods page
 
 
-**3. Use case ideas**
+# **Use case ideas**
 
 Users go to the Landing Page where they can create an account at the Create Account Page, or log in if they already have an account.
 They then are at the Home Page, where they can edit settings, see the full item page, cheapest foods page, or the option to add an item.
 If an item is requested by a user to be added, the admins will log in with their admin accounts on the Landing Page, where they can
 approve of or disapprove of any requests users have sent in.
 
-**4. Beyond the basics**
+# **Beyond the basics**
 
 Users can react to any menu items added. Opinions on foods vary, so to have a like/dislike function will help students determine if
 they are willing to try out any of the menu items on the list. If people aren't satisfied with just looking at a like/dislike function
