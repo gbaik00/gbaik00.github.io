@@ -25,6 +25,8 @@ the situation.
 
 <img class="ui medium floated rounded image" src="../images/calculators.jpg">
 
+
+
 ## What design patterns have you used in your own code?
   Ever since I started coding in ICS 111, I never really noticed how much I have used design patterns, but after watching about them, I 
 realized that I've been taught to use them and have used them unknowingly ever since. A couple design patterns that I have noticed that
