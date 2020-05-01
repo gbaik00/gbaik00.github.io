@@ -23,7 +23,9 @@ calculator for financial calculations that have to do with taxes and such, and m
 They all solve the same problem: Needing to do complex calculations quicker than you would by hand. But the solution changes based on 
 the situation.
 
-<img class="ui medium floated rounded image" src="../images/calculators.jpg">
+<img class="ui large floated rounded image" src="../images/calculators.jpg">
+
+
 
 
 
