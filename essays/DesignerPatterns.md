@@ -10,5 +10,9 @@ labels:
 ---
 Author: Gunwook Baik
 
+## What are design patterns?
 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+## What design patterns have you used in your own code?
+
+
