@@ -23,11 +23,15 @@ calculator for financial calculations that have to do with taxes and such, and m
 They all solve the same problem: Needing to do complex calculations quicker than you would by hand. But the solution changes based on 
 the situation.
 
+<img class="ui medium floated rounded image" src="../images/calculators.jpg">
 
 ## What design patterns have you used in your own code?
   Ever since I started coding in ICS 111, I never really noticed how much I have used design patterns, but after watching about them, I 
 realized that I've been taught to use them and have used them unknowingly ever since. A couple design patterns that I have noticed that
 I use in my own code would be the singleton and factory patterns. The Factory pattern allowed me to return objects that have to do with 
-different classes. The singleton pattern which ensures that a class has one instance and providing a global point of access to that 
+different classes. The Singleton pattern which ensures that a class has one instance and providing a global point of access to that 
 instance. They are things that I do unconsciously and are things that I find to be common sense, but I never realized were actually 
 called "design patterns".
+
+<img class="ui medium left floated rounded image" src="../images/factorydp.jpg">
+<img class="ui medium right floated rounded image" src="../images/singletondp.png">
