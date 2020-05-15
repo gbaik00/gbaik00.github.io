@@ -24,6 +24,7 @@ communication, especially since up until now, considering the ICS department has
 project.
 
 ### How can UI Frameworks Help a Future Video Game Dev?
+<img class="ui medium right floated rounded image" src="../images/semantic.png">
 
 Just like how video games developers work with game engines such as Unreal Engine 4, which may contain things like assets for physics, 
 graphics, and so on, we also had our own set of tools to work with in the form of Underscore and Semantic UI. Creating web pages using
@@ -35,7 +36,9 @@ do with your website. Though it may not include the functionality of the buttons
 with achieving the vision that you may have for your website at the start. Being able to effectively use the tools laid out for you
 will certainly help you get the results you want in any field.
 
+
 ### Coding Standards and its Importance When Working With Others
+<img class="ui medium right floated rounded image" src="../images/10codes.png">
 
 Working with others is most likely a given when it comes to working as a Video Game Developer. Not only does creating a project all on
 your own an immense task that many cannot handle, having others working with you gives you multiple perspectives on how an issue should
@@ -48,6 +51,7 @@ it caused problems, but other times it took us hours trying to find similar prob
 figure out the logic behind any code and quickly find issues in the code.
 
 
+<img class="ui medium right floated rounded image" src="../images/journey.PNG">
 
 
 Even though I may not use these skills in the context of Web Design in my career, my journey to become a video game developer will 
