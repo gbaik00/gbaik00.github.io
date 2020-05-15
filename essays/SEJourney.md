@@ -51,7 +51,7 @@ it caused problems, but other times it took us hours trying to find similar prob
 figure out the logic behind any code and quickly find issues in the code.
 
 
-<img class="ui large floated rounded image" src="../images/journey.PNG">
+<img class="ui large rounded image" src="../images/journey.PNG">
 
 
 Even though I may not use these skills in the context of Web Design in my career, my journey to become a video game developer will 
