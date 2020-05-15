@@ -11,6 +11,7 @@ labels:
 Author: Gunwook Baik
 
 ### My Adventure through Software Engineering
+<img class="ui medium right floated rounded image" src="../images/journey.PNG">
 
 I made a ton of progress towards my career this past semester in ICS 314. Although I am interested in Video Game Development, taking
 this class and learning about web design and using Javascript did help me in my endeavor. I've talked about my experience with 
@@ -51,7 +52,6 @@ it caused problems, but other times it took us hours trying to find similar prob
 figure out the logic behind any code and quickly find issues in the code.
 
 
-<img class="ui large rounded image" src="../images/journey.PNG">
 
 
 Even though I may not use these skills in the context of Web Design in my career, my journey to become a video game developer will 
