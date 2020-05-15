@@ -38,7 +38,7 @@ will certainly help you get the results you want in any field.
 
 
 ### Coding Standards and its Importance When Working With Others
-<img class="ui medium right floated rounded image" src="../images/10codes.png">
+<img class="ui small right floated rounded image" src="../images/10codes.png">
 
 Working with others is most likely a given when it comes to working as a Video Game Developer. Not only does creating a project all on
 your own an immense task that many cannot handle, having others working with you gives you multiple perspectives on how an issue should
@@ -51,7 +51,7 @@ it caused problems, but other times it took us hours trying to find similar prob
 figure out the logic behind any code and quickly find issues in the code.
 
 
-<img class="ui medium right floated rounded image" src="../images/journey.PNG">
+<img class="ui large floated rounded image" src="../images/journey.PNG">
 
 
 Even though I may not use these skills in the context of Web Design in my career, my journey to become a video game developer will 
