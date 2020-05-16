@@ -23,7 +23,9 @@ that may be troll posts.
 
 Some of the things I was responsible for in the project was to create the log in page, going to the University to collect real data and 
 pictures of fountains, and helping out group members Jake Castillo, Bryson Yuen, and Sean Sumida with the ratings system
-and how the list of fountains look under each building, as seen in the surrounding pictures.
+and how the list of fountains look under each building, as seen in the surrounding pictures. Overall I learned a lot about working with 
+others when it comes to coding. Learning about proper code etiquette and maintaining good communication was key in this project and with
+working with multiple people in general. 
 
 <img class="ui large image" src="../images/waterfountainlist.PNG">
 
