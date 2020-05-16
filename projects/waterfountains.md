@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "../images/waterfountain.PNG"
+image: images/waterfountain.PNG
 title: UH Water Fountains
 permalink: projects/uhwaterfountains
 date: 2020-05-15
@@ -12,7 +12,6 @@ labels:
   - Final Project
 summary: Worked with classmates to create a water fountain registry for UH Manoa.
 ---
-
 Working with my classmates Bryson Yuen, Sean Sumida, Jake Castillo, and Sheena Torres, we created a website dedicated to giving students 
 a place where they can look up the assortment of water fountains located on the University of Hawaii Manoa campus. The idea came 
 originally from Bryson Yuen and Sean Sumida and the website's goal was to essentially create a site where users can visit, see where
