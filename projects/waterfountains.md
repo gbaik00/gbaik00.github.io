@@ -20,12 +20,12 @@ fountains are located on the campus, and review each fountain they may go to wit
 submit their own water fountains if it was not listed in the system, where any admins could go in and approve of or delete any submissions
 that may be troll posts. 
 
-<img class="ui large floated image" src="../images/waterfountainlogin.PNG">
+<img class="ui large image" src="../images/waterfountainlogin.PNG">
 
 Some of the things I was responsible for in the project was to create the log in page, going to the University to collect real data and 
 pictures of fountains, and helping out group members Jake Castillo, Bryson Yuen, and Sean Sumida with the ratings system
 and how the list of fountains look under each building, as seen in the surrounding pictures.
 
-<img class="ui large floated image" src="../images/waterfountainlist.PNG">
+<img class="ui large image" src="../images/waterfountainlist.PNG">
 
 [Link to the project page and source code](https://uh-waterfountain.github.io/)
