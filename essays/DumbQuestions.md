@@ -51,4 +51,4 @@ however how you ask your question makes all the difference. You don't want to ju
 you had the question in the first place to make sure you don't have to rely on people for that same question. 
 
 
-Link to question: https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array
+[https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array]
